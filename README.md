@@ -62,9 +62,9 @@ Here are some ideas to get you started:
 <img align="left" alt="Windows" width="26px" src="https://www.svgrepo.com/show/184142/windows.svg" />
 
 
-<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
+<!-- <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 
-<img align="left" alt="GitHub" width="26px" src="https://www.svgrepo.com/show/343674/github.svg" />
+<img align="left" alt="GitHub" width="26px" src="https://www.svgrepo.com/show/343674/github.svg" /> -->
 </br></br>
 
 ### My Projects 🙌
