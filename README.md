@@ -1,5 +1,5 @@
 <p align="center">
-  <h1>A  F R O N T - E N D  D E V E L O P E R<h1>
+  <pre> A  F R O N T - E N D  D E V E L O P E R </pre>
 </p>
 
 ### Hi there 👋 I am Nitin.
