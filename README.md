@@ -1,5 +1,5 @@
 <p align="center">
-  <h1>【N】【i】【t】【i】【n】<h1>
+  <h1>⫷Niͥtiͣnͫ Ṩingh⫸<h1>
 </p>
 
 ### Hi there 👋 I am Nitin.
@@ -38,13 +38,17 @@ Here are some ideas to get you started:
 <br />
 
 ### About Me 🚀
-🌱  I’m an Web Developer. </br>
+
+🌱  I’m Front-end Developer. </br>
 🔭  I’m currently learning everything 🤣 </br>
-⚡  Fun fact: I love to Watching movies and KDrama's, play video games. </br>
-👨‍💻  I am passionate about front-end developing & UI/UX Designing, Drawing I enjoy learning new things. </br>
+⚡  Fun fact: I love Watching movies & play video games. </br>
+👨‍💻  I am passionate about front-end & UI/UX Designing, I enjoy learning new things. </br>
 </br>
 
+
 ### Languages and Tools:
+
+
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
@@ -55,12 +59,11 @@ Here are some ideas to get you started:
 
 <img align="left" alt="Bootstrap 5" width="28px" src="https://i.ibb.co/dJ3PCQb/javascript-programming-language.png" alt="JavaScript" border="0">
 
-
-
 <img align="left" alt="Ubuntu" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Logo-ubuntu_cof-orange-hex.svg" />
 
 <img align="left" alt="Windows" width="26px" src="https://www.svgrepo.com/show/184142/windows.svg" />
 
+<img align="left" alt="Ubuntu" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Logo-ubuntu_cof-orange-hex.svg" />
 
 <!-- <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 
