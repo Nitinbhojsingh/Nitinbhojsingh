@@ -4,21 +4,6 @@
 
 ### Hi there 👋 I am Nitin.
 
-<!--
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
 
 ### Social 🤳
 
@@ -64,36 +49,12 @@ Here are some ideas to get you started:
 <img align="left" alt="Windows" width="26px" src="https://www.svgrepo.com/show/184142/windows.svg" />
 
 
-<!-- <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
-
-<img align="left" alt="GitHub" width="26px" src="https://www.svgrepo.com/show/343674/github.svg" /> -->
 </br></br>
+
+### 💬 Languages
+  - #### Hindi
+  - #### English
+
 
 ### My Projects 🙌
 - [Tindog Website](https://nitinbhojsingh.github.io/TinDog/)
-
-
-<br />
-
-<!-- ### 👨‍💻 Top Languages Used:
-<p align="center">
-  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Prakash4844&theme=nord_dark" alt="Top Languages by Repo" />  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Prakash4844&theme=nord_dark" alt="Top Languages by Repo" />
-
-  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Prakash4844&theme=nord_dark" alt="Top Languages by Commits" /></p> -->
-  
-<!-- ### ⚙️ &nbsp;GitHub Analytics
-
-<p align="center">
-<a href="https://github.com/Prakash4844">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Prakash4844&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Prakash4844&layout=compact&langs_count=8&theme=algolia"/>
-</a>
- <br />
-  
-   <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Prakash4844&theme=algolia" alt="Prakash4844" /></p>
-   
- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Prakash4844&theme=react-dark)   
-
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=Prakash4844.Prakash4844)
-
-![alt text](https://raw.githubusercontent.com/sisodiya2421/sisodiya2421/da6f1c41f17bbf0054531053500618a4f4bbaa6b/images/bottom.svg) -->
