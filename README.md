@@ -55,6 +55,9 @@
   - #### Hindi
   - #### English
 
+<a href="https://www.linkedin.com/in/nitinbhojsingh/">
+<ion-icon name="logo-html5"></ion-icon>
+</a>
 
 ### My Projects 🙌
 - [Tindog Website](https://nitinbhojsingh.github.io/TinDog/)
