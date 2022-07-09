@@ -1,7 +1,7 @@
 
-<p> align="center">
+
   <h1>A Fɾσɳƚ-Eɳԃ Dҽʋҽʅσρҽɾ </h1>
-</p>
+
 
 ### Hi there 👋 I am Nitin.
 
@@ -30,6 +30,20 @@
 ⚡  Fun fact: I love Watching movies & play video games. </br>
 👨‍💻  I am passionate about front-end & UI/UX Designing, I enjoy learning new things. </br>
 </br>
+
+### *SKILLS* 💪🏼
+
+**``HTML & CSS``** &emsp; &emsp;  &emsp;⭐⭐⭐⭐⭐⭐
+
+**``Bootstrap 5``**&emsp;&emsp; &emsp;⭐⭐⭐⭐
+
+**``Web Desgin``** &emsp;&emsp; &emsp;  ⭐⭐⭐⭐
+
+**``JavaScript``** &emsp; &emsp; &emsp;⭐⭐⭐
+
+**``Windows``** &emsp;&emsp; &emsp; &emsp; ⭐⭐⭐
+
+**``Linux``** &emsp; &emsp; &emsp; &emsp;&emsp;⭐⭐
 
 
 ### Languages and Tools:
