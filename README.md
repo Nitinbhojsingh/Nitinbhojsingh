@@ -68,6 +68,7 @@
 
 ### My Projects 🙌
 - [Tindog Website](https://nitinbhojsingh.github.io/TinDog/)
+- [Expanding Cards](https://expanding-cards.nitinbhojsingh.repl.co/)
 
 </br></br>
 
