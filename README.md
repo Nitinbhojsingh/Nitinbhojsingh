@@ -3,7 +3,7 @@
   <h1>A Fɾσɳƚ-Eɳԃ Dҽʋҽʅσρҽɾ </h1>
 
 
-### Hi there 👋 I am Nitin.
+# Hi there 👋 I am Nitin.
 
 
 ### Social 🤳
@@ -77,5 +77,4 @@
   - #### English
 
 
-### My Projects 🙌
-- [Tindog Website](https://nitinbhojsingh.github.io/TinDog/)
+
