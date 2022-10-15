@@ -1,10 +1,10 @@
 <!----------------------------------- Heading Section ------------------------------------>
 
 <!-- <img src="https://i.ibb.co/8BnHq4T/hello.gif" width="90" -->
-<h1 >
+<h1 align="center">
     <img src="https://i.ibb.co/QY4xcSS/akirambow-smile-person.gif" width="250">
+    I am Nitin.
 </h1>
-<h1>I am Nitin.</h1>
 
 <!----------------------------------- About Section ------------------------------------>
 
