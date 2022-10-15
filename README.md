@@ -1,80 +1,89 @@
+<!----------------------------------- Heading Section ------------------------------------>
 
+<!-- <img src="https://i.ibb.co/8BnHq4T/hello.gif" width="90" -->
+<h1 >
+    <img src="https://i.ibb.co/QY4xcSS/akirambow-smile-person.gif" width="250">
+</h1>
+<h1>I am Nitin.</h1>
 
-  <h1>A Fɾσɳƚ-Eɳԃ Dҽʋҽʅσρҽɾ </h1>
+<!----------------------------------- About Section ------------------------------------>
 
+<h3>
+    <i>- I'm a Front-end Web Developer skilled in HTML, CSS and javascript who focuses on writing clean, elegant and efficient code.</i>
+</h3>
 
-# Hi there 👋 I am Nitin.
+<!-- <h3>
+    <i>- Currently working at Kyndryl as a Full Stack Developer</i>
+</h3>
+<br> -->
 
+<!----------------------------------- Profile View Section ------------------------------------>
 
-### Social 🤳
+<!-- <p align="left">
+    <a href="https://github.com/m-sehrawat">
+        <img src="https://komarev.com/ghpvc/?username=m-sehrawat&label=Profile%20views&color=0e75b6&style=flat" alt="m-sehrawat" />
+    </a>
+    <a href="https://github.com/m-sehrawat?tab=followers">
+        <img src="https://img.shields.io/github/followers/m-sehrawat?label=Followers&style=social" alt="followers-count">
+    </a>
+</p>
+<br> -->
 
-<a href="https://www.linkedin.com/in/nitinbhojsingh/">
-  <img align="left" width="24px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"  />
-</a>
-<a href="https://twitter.com/Nitin_BhojSingh">
-  <img align="left" width="26px" src="https://www.svgrepo.com/show/22159/twitter.svg" />
-</a>
-<a href="https://www.fiverr.com/nitinsingh_2001">
-<img align="left" width="26px"  src="https://i.ibb.co/tzNpddn/fiverr.png" alt="fiverr" border="0"></a>
-</a>
-<a href="https://mail.google.com/mail/u/0/?ibxr=0#inbox?compose=new">
-  <img align="left" width="26px" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" />
-</a>
+<!----------------------------------- Tech Stack Section ------------------------------------>
 
-<br />
+<h2><i>Tech Stack</i></h2>
 
-### About Me 🚀
+<p>
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" />
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3" />
+    <!-- <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap" /> -->
+    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="tailwind" />
+    <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript" />
+    <!-- <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="nodejs" /> -->
+    <!-- <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="expressjs" /> -->
+    <!-- <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb" /> -->
+    <!-- <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm" /> -->
+    <!-- <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="postman" /> -->
+    <img src="https://img.shields.io/badge/Git-f44d27?style=for-the-badge&logo=git&logoColor=white" alt="git" />
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github" />
+    <!-- <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="reactjs" /> -->
+    <!-- <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="redux" />
+    <img src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" alt="material-ui" />
+    <img src="https://img.shields.io/badge/Chakra%20UI-3bc7bd?style=for-the-badge&logo=chakraui&logoColor=white" alt="chakra-ui" />
+    <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt="styled-components" /> -->
+</p>
+<br>
 
-🌱  I’m Front-end Developer. </br>
-🔭  I’m currently learning everything 🤣 </br>
-⚡  Fun fact: I love Watching movies & play video games. </br>
-👨‍💻  I am passionate about front-end & UI/UX Designing, I enjoy learning new things. </br>
-</br>
+<!----------------------------------- Project Section ------------------------------------>
 
-### *SKILLS* 💪🏼
+<h2><i>My top projects</i></h2>
 
-**``HTML & CSS``** &emsp; &emsp;  &emsp;⭐⭐⭐⭐⭐⭐
+<p align="left">
+    <a href="https://github.com/Nitinbhojsingh/TinDog" target="blank">
+        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Tindog&color=FFFFFF&logo=tinder&logocolor=FF6B6B&label=" alt="Tindog clone" />
+    </a>
+    <a href="https://github.com/Nitinbhojsingh/50-Projects" target="blank">
+        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=50 Project&color=FCE70&logo=CodeProject&logoColor=000&label=" alt="Adidas-Clone" />
+    </a>
+</p>
+<br>
 
-**``Bootstrap 5``**&emsp;&emsp; &emsp;⭐⭐⭐⭐
+<!----------------------------------- Social Media Links Section ------------------------------------>
 
-**``Web Desgin``** &emsp;&emsp; &emsp;  ⭐⭐⭐⭐
+<h2><i>Let's Connect</i></h2>
 
-**``JavaScript``** &emsp; &emsp; &emsp;⭐⭐⭐
-
-**``Windows``** &emsp;&emsp; &emsp; &emsp; ⭐⭐⭐
-
-**``Linux``** &emsp; &emsp; &emsp; &emsp;&emsp;⭐⭐
-
-
-### Languages and Tools:
-
-
-<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
-
-<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
-
-<img align="left" alt="CSS3" width="26px" src="https://i.ibb.co/GF7HbtX/css.png" border="0">
-
-<img align="left" alt="Bootstrap 5" width="28px" src="https://i.ibb.co/d6zhdDP/bootstrap-5-logo.png" alt="bootstrap-5-logo" style="padding-left: 1px;">
-
-<img align="left" alt="Bootstrap 5" width="28px" src="https://i.ibb.co/dJ3PCQb/javascript-programming-language.png" alt="JavaScript" border="0">
-
-<img align="left" alt="Ubuntu" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Logo-ubuntu_cof-orange-hex.svg" />
-
-<img align="left" alt="Windows" width="26px" src="https://www.svgrepo.com/show/184142/windows.svg" />
-
-
-</br></br>
-
-### My Projects 🙌
-- [Tindog Website](https://nitinbhojsingh.github.io/TinDog/)
-- [Expanding Cards](https://expanding-cards.nitinbhojsingh.repl.co/)
-
-</br></br>
-
-### 💬 Languages
-  - #### Hindi
-  - #### English
-
-
-
+<p align="left">
+    <a href="https://www.linkedin.com/in/nitinbhojsingh">
+        <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/nitinbhojsingh" />
+    </a>
+    <a href="https://twitter.com/Nitin_BhojSingh">
+        <img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="https://twitter.com/Nitin_BhojSingh" />
+    </a>
+     <a href="https://www.fiverr.com/nitinsingh_2001">
+        <img align="center" src="https://img.shields.io/badge/Fiverr-A8E890?style=for-the-badge&logo=fiverr&logoColor=black" alt="https://www.fiverr.com/nitinsingh_2001" />
+    </a>
+    <a title="nitin914919@gmail.com" href="mailto:nitin914919@gmail.com">
+        <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="nitin914919@gmail.com" />
+    </a>
+</p>
+<br>
