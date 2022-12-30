@@ -9,7 +9,7 @@
 <!----------------------------------- About Section ------------------------------------>
 
 <h3>
-    <i>- I'm a Front-end Web Developer skilled in HTML, CSS and javascript who focuses on writing clean, elegant and efficient code.</i>
+    <i>- I'm a Front-end Web Developer skilled in HTML, CSS, and WordPress who focuses on writing clean, elegant and efficient code.</i>
 </h3>
 
 <!-- <h3>
