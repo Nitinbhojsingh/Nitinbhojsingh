@@ -28,7 +28,7 @@
 <!--     <a href="https://twitter.com/Nitin_BhojSingh">
         <img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="https://twitter.com/Nitin_BhojSingh" />
     </a> -->
-     <a>
+     <a title="nitinsingh" href="https://www.upwork.com/freelancers/~01fce89b813f14ca80">
         <img align="center" src="https://img.shields.io/badge/Upwork-14a800?style=for-the-badge&logo=upwork&logoColor=white" alt="https://www.upwork.com/freelancers/~01fce89b813f14ca80" />
     </a>
     <a title="nitin914919@gmail.com" href="mailto:nitin914919@gmail.com">
