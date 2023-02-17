@@ -17,6 +17,26 @@
 </h3>
 <br> -->
 
+<!----------------------------------- Social Media Links Section ------------------------------------>
+
+<h2><i>Let's Connect</i></h2>
+
+<p align="left">
+    <a href="https://www.linkedin.com/in/nitinbhojsingh">
+        <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/nitinbhojsingh" />
+    </a>
+    <a href="https://twitter.com/Nitin_BhojSingh">
+        <img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="https://twitter.com/Nitin_BhojSingh" />
+    </a>
+     <a href="https://www.upwork.com/freelancers/~01fce89b813f14ca80">
+        <img align="center" src="https://img.shields.io/badge/Upwork-14a800?style=for-the-badge&logo=upwork&logoColor=white" alt="https://www.upwork.com/freelancers/~01fce89b813f14ca80" />
+    </a>
+    <a title="nitin914919@gmail.com" href="mailto:nitin914919@gmail.com">
+        <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="nitin914919@gmail.com" />
+    </a>
+</p>
+<br>
+
 <!----------------------------------- Profile View Section ------------------------------------>
 
 <!-- <p align="left">
@@ -64,26 +84,6 @@
     </a>
     <a href="https://github.com/Nitinbhojsingh/50-Projects" target="blank">
         <img src="https://img.shields.io/static/v1?style=for-the-badge&message=50 Project&color=FCE70&logo=CodeProject&logoColor=000&label=" alt="Adidas-Clone" />
-    </a>
-</p>
-<br>
-
-<!----------------------------------- Social Media Links Section ------------------------------------>
-
-<h2><i>Let's Connect</i></h2>
-
-<p align="left">
-    <a href="https://www.linkedin.com/in/nitinbhojsingh">
-        <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/nitinbhojsingh" />
-    </a>
-    <a href="https://twitter.com/Nitin_BhojSingh">
-        <img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="https://twitter.com/Nitin_BhojSingh" />
-    </a>
-     <a href="https://www.upwork.com/freelancers/~01fce89b813f14ca80">
-        <img align="center" src="https://img.shields.io/badge/Upwork-14a800?style=for-the-badge&logo=upwork&logoColor=white" alt="https://www.upwork.com/freelancers/~01fce89b813f14ca80" />
-    </a>
-    <a title="nitin914919@gmail.com" href="mailto:nitin914919@gmail.com">
-        <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="nitin914919@gmail.com" />
     </a>
 </p>
 <br>
