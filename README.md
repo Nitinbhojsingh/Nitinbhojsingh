@@ -79,8 +79,8 @@
     <a href="https://twitter.com/Nitin_BhojSingh">
         <img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="https://twitter.com/Nitin_BhojSingh" />
     </a>
-     <a href="https://www.fiverr.com/nitinsingh_2001">
-        <img align="center" src="https://img.shields.io/badge/Fiverr-A8E890?style=for-the-badge&logo=fiverr&logoColor=black" alt="https://www.fiverr.com/nitinsingh_2001" />
+     <a href="https://www.upwork.com/freelancers/~01fce89b813f14ca80">
+        <img align="center" src="https://img.shields.io/badge/Upwork-A8E890?style=for-the-badge&logo=fiverr&logoColor=black" alt="https://www.upwork.com/freelancers/~01fce89b813f14ca80" />
     </a>
     <a title="nitin914919@gmail.com" href="mailto:nitin914919@gmail.com">
         <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="nitin914919@gmail.com" />
